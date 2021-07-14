@@ -1,5 +1,5 @@
 <!--# Hi there 👋-->
-[![gist](https://img.shields.io/badge/GithubGist-oishimilk-a9a9a9.svg?longCache=true)](https://gist.github.com/oishimilk)
+[![gist](https://img.shields.io/badge/Gist-oishimilk-a9a9a9.svg?longCache=true)](https://gist.github.com/oishimilk)
 
 ![Contribution Heatmap](./profile-3d-contrib/profile-green-animate.svg)
 
