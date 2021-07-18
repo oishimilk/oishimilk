@@ -2,11 +2,11 @@
 [![gist](https://img.shields.io/badge/Gist-oishimilk-a9a9a9.svg?longCache=true)](https://gist.github.com/oishimilk)
 
 🔭 I’m currently working on automation of a retail store.  
-🌱 I’m currently learning robot vision with deep learning.
+🌱 I’m currently learning robot vision with deep learning. ✨ MLP is Magic! ✨
 
 ![Contribution Heatmap](./profile-3d-contrib/profile-green-animate.svg)
 
-Python 食べたい
+Python 食べたい！
 
 <!--
 **oishimilk/oishimilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
