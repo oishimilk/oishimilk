@@ -1,8 +1,8 @@
 <!--# Hi there 👋-->
 [![gist](https://img.shields.io/badge/Gist-oishimilk-a9a9a9.svg?longCache=true)](https://gist.github.com/oishimilk)
 
-🔭 I’m currently working on automation of a retail store.  
-🌱 I’m currently learning robot vision with deep learning.
+🔭 I have been working on automation of a retail store.  
+🌱 I have been learning robot vision with deep learning.
 
 ![Contribution Heatmap](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-~~2021/6/14 より毎日緑化チャレンジ実施中です。~~ 2022/3/1 チャレンジ失敗しましたｗｗｗｗ
